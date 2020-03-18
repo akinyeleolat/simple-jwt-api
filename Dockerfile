@@ -2,10 +2,10 @@ FROM python:stretch
 
 
 # Create app directory
-RUN mkdir /main
-COPY . /main
-WORKDIR /main
-COPY requirements.txt .
+#RUN mkdir /app
+COPY . /app
+WORKDIR /app
+#COPY requirements.txt .
 
 # install app dependencies
 RUN pip install --upgrade pip
