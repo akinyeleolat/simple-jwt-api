@@ -38,4 +38,4 @@ Completing the project involves several steps:
 For more detail about each of these steps, see the project lesson [here](https://classroom.udacity.com/nanodegrees/nd004/parts/1d842ebf-5b10-4749-9e5e-ef28fe98f173/modules/ac13842f-c841-4c1a-b284-b47899f4613d/lessons/becb2dac-c108-4143-8f6c-11b30413e28d/concepts/092cdb35-28f7-4145-b6e6-6278b8dd7527).
 
 ## External IP
-- ad0699b3a694c11eaae820a7f876e73d-822846493.us-west-2.elb.amazonaws.com
+- a10a1dc7f694b11eaae820a7f876e73d-1234032213.us-west-2.elb.amazonaws.com
